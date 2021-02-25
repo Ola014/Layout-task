@@ -1,0 +1,52 @@
+figure{
+    width:90%;
+    height: 580px;
+    border: solid #000;
+    border-width: 3px 3px;
+    position: relative;
+}
+p{
+    border: solid #000;
+    border-width: 0 0 3px 0;
+    padding-left: 2%;
+    padding-bottom: 2%;
+}
+div {
+    margin: 2%;  
+}
+.pink-box{
+    border: solid #000;
+    border-width: 1px 1px 1px 1px;
+    width: 12%;
+    height: 17%;
+    background-color: pink;
+    display: inline-block;
+    float:left;
+    /*position: relative;
+    top: 10%;
+    left:10%;*/
+}
+.blue-box{
+    border: solid #000;
+    border-width: 1px 1px 1px 1px;
+    width: 72%;
+    height: 17%;
+    background-color: cadetblue;
+    display: inline-block;
+    float:left;
+    /*position: relative;
+    top: 10%;
+    left: 60%;*/
+}
+.orange-box{
+    border: solid #000;
+    border-width: 1px 1px 1px 1px;
+    width: 88%;
+    height: 17%;
+    background-color: rgb(223, 171, 61);
+    position:absolute;
+    top: 455px;
+   /* position: relative;
+    top: 10%;
+    left: 0%;*/
+}
