@@ -1,7 +1,7 @@
 
-figure{
+.container{
     width:90%;
-    height: 580px;
+    height: 620px;
     border: solid #000;
     border-width: 3px 3px;
     position: relative;
@@ -13,41 +13,28 @@ p{
     padding-bottom: 2%;
 }
 div {
-    margin: 2%;  
+    margin: 1.5%;  
 }
 .pink-box{
-    border: solid #000;
-    border-width: 1px 1px 1px 1px;
+    border: 1px solid #000;
     width: 12%;
     height: 17%;
     background-color: pink;
     display: inline-block;
-    float:left;
-    /*position: relative;
-    top: 10%;
-    left:10%;*/
 }
 .blue-box{
-    border: solid #000;
-    border-width: 1px 1px 1px 1px;
+    border: 1px solid #000;
     width: 72%;
     height: 17%;
     background-color: cadetblue;
     display: inline-block;
-    float:left;
-    /*position: relative;
-    top: 10%;
-    left: 60%;*/
 }
 .orange-box{
-    border: solid #000;
-    border-width: 1px 1px 1px 1px;
-    width: 88%;
+    border: 1px solid #000;
+    width: 96%;
     height: 17%;
     background-color: rgb(223, 171, 61);
     position:absolute;
-    top: 455px;
-   /* position: relative;
-    top: 10%;
-    left: 0%;*/
+    top: 78%;
 }
+
